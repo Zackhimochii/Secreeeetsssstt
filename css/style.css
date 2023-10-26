@@ -69,9 +69,9 @@ body{
     animation-delay: 2.8s ;
 }
 .greetings > span:nth-child(14){
-    animation-delay: 3s;
+    animation-delay: 3.0s;
 }
-.greetings > span:nth-child(14){
+.greetings > span:nth-child(15){
     animation-delay: 3.2s;
 }
 
